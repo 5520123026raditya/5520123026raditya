@@ -1,0 +1,6 @@
+print("biodata saya")
+print(nama:ahmadin zulfikar")
+print(alamat:soki-bima-01-05-2005)
+print(prodi:s1 ilmu komputer)
+print(motivasi:hidup yang tidak dipertaruhkan tidak akan pernah dimenangkan)
+print(hobi:main bola)
